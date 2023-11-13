@@ -29,7 +29,7 @@ bgap	= 60; //espace vertical bouton
 
 var	n = 0;
 bstring[ n ]	= " RESUME "; n++;
-bstring[ n ]	= " MAINMENU "; n++;
+bstring[ n ]	= " MAIN MENU "; n++;
 bstring[ n ]	= " EXIT "; n++;
 bc		= n; 
 
