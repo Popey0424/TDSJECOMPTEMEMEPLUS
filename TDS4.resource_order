@@ -2,5 +2,9 @@
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
     {"name":"obj_camera","order":1,"path":"objects/obj_camera/obj_camera.yy",},
+    {"name":"spr_button_scroll_up","order":1,"path":"sprites/spr_button_scroll_up/spr_button_scroll_up.yy",},
+    {"name":"obj_scroll_up","order":1,"path":"objects/obj_scroll_up/obj_scroll_up.yy",},
+    {"name":"obj_scroll_down","order":2,"path":"objects/obj_scroll_down/obj_scroll_down.yy",},
+    {"name":"spr_button_scroll_down","order":2,"path":"sprites/spr_button_scroll_down/spr_button_scroll_down.yy",},
   ],
 }
