@@ -6,8 +6,14 @@
 instance_create_layer(0, 0, "Instances_Obj_Weapon", obj_weapon);
 instance_create_layer(0, 0, "Instances_Character", obj_zone_collision);
 
-global.pscore = 0
-global.pcombo = 0
+// Initialisation des variables
+global.score = 0
+global.combo = 0
+temps_max_sans_tuer = 2 // en secondes
+bonus_par_combo = 10
+
+combo_reset_timer = 0;
+
 global.facing = 0
 
 if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;

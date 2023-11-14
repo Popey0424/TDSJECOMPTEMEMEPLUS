@@ -54,24 +54,8 @@ if image_index >= 2
 {
     image_speed = 0; // Arrête l'animation
     image_index = 2; // Assure que l'animation reste à la 2ème frame
-	if keyboard_check_pressed(vk_up)
-	{
-		if sprite_index == spr_background_menu_credits 
-		{
-			image_speed = 1
-			image_index = 2
-		}
-	}
 	
-	if image_index >= 5  
-	{
-		image_speed = 0; // Arrête l'animation
-		image_index = 5; // Assure que l'animation reste à la 2ème frame
-	}
-
-
 }
-
 
 
 

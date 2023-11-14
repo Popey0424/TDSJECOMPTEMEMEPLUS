@@ -7,7 +7,20 @@ if __dnd_lives > 4
 	__dnd_lives = 4
 }
 
+if (global.combo % 5 == 0)
+{
+    global.score += bonus_par_combo * global.combo
+}
 
+
+
+
+
+
+
+
+		
+		
 walk_spd = 10
 
 if (global.facing == 0) && (keyboard_check(vk_nokey))
