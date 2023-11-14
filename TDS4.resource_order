@@ -6,5 +6,7 @@
     {"name":"obj_scroll_up","order":1,"path":"objects/obj_scroll_up/obj_scroll_up.yy",},
     {"name":"obj_scroll_down","order":2,"path":"objects/obj_scroll_down/obj_scroll_down.yy",},
     {"name":"spr_button_scroll_down","order":2,"path":"sprites/spr_button_scroll_down/spr_button_scroll_down.yy",},
+    {"name":"spr_machine_commandes03","order":2,"path":"sprites/spr_machine_commandes03/spr_machine_commandes03.yy",},
+    {"name":"spr_machine_commandes02","order":1,"path":"sprites/spr_machine_commandes02/spr_machine_commandes02.yy",},
   ],
 }
