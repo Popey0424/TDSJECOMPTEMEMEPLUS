@@ -85,6 +85,7 @@
     {"id":{"name":"spr_tas_01","path":"sprites/spr_tas_01/spr_tas_01.yy",},},
     {"id":{"name":"obj_pink_zone","path":"objects/obj_pink_zone/obj_pink_zone.yy",},},
     {"id":{"name":"spr_bomberman_attack","path":"sprites/spr_bomberman_attack/spr_bomberman_attack.yy",},},
+    {"id":{"name":"obj_trigger_puzzle_fini","path":"objects/obj_trigger_puzzle_fini/obj_trigger_puzzle_fini.yy",},},
     {"id":{"name":"spr_background_menu_options","path":"sprites/spr_background_menu_options/spr_background_menu_options.yy",},},
     {"id":{"name":"spr_livre_page012","path":"sprites/spr_livre_page012/spr_livre_page012.yy",},},
     {"id":{"name":"spr_chaise","path":"sprites/spr_chaise/spr_chaise.yy",},},

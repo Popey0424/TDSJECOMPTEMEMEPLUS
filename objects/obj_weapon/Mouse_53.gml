@@ -1,9 +1,10 @@
 /// @description create hole
 // You can write your code in this editor
 
+global.shooting = true
 
 
-obj_player.sprite_index = spr_player_attack_right
+//obj_player.sprite_index = spr_player_attack_right
 
 
 if(can_shoot == true)

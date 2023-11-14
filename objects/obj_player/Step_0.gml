@@ -171,7 +171,10 @@ if (hit_timer > 0) {
     image_blend = c_white; // Reset to normal color
 }
 
-
+if (global.shooting == true)
+{
+	obj_player.sprite_index = spr_player_attack_right
+}
 
 
 

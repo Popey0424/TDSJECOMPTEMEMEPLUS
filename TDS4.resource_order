@@ -21,6 +21,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"spr_tas_01","order":32,"path":"sprites/spr_tas_01/spr_tas_01.yy",},
+    {"name":"obj_trigger_puzzle_fini","order":2,"path":"objects/obj_trigger_puzzle_fini/obj_trigger_puzzle_fini.yy",},
     {"name":"spr_livre_page012","order":13,"path":"sprites/spr_livre_page012/spr_livre_page012.yy",},
     {"name":"spr_chaise","order":1,"path":"sprites/spr_chaise/spr_chaise.yy",},
     {"name":"spr_lit","order":2,"path":"sprites/spr_lit/spr_lit.yy",},
@@ -38,6 +39,7 @@
     {"name":"obj_tuyau_mur_09","order":7,"path":"objects/obj_tuyau_mur_09/obj_tuyau_mur_09.yy",},
     {"name":"spr_table","order":5,"path":"sprites/spr_table/spr_table.yy",},
     {"name":"spr_rouage_05","order":7,"path":"sprites/spr_rouage_05/spr_rouage_05.yy",},
+    {"name":"obj_cuve","order":1,"path":"objects/obj_cuve/obj_cuve.yy",},
     {"name":"spr_case01","order":6,"path":"sprites/spr_case01/spr_case01.yy",},
     {"name":"spr_tas_02","order":33,"path":"sprites/spr_tas_02/spr_tas_02.yy",},
     {"name":"spr_hublot","order":7,"path":"sprites/spr_hublot/spr_hublot.yy",},

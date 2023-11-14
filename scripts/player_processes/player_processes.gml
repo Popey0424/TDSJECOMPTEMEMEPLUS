@@ -3,7 +3,9 @@ function reset_variables()
 	left  = 0;
 	right = 0;
 	up    = 0;
-	down  = 0;
+	down  = 0; 
+	
+	
 }
 
 function get_input()
@@ -27,6 +29,8 @@ function calc_movement()
 	if(_hmove == -1)
 	{
 		sprite_index = spr_player_left;
+		facing_left = true;
+		facing_right = false;
 				
 		
 		
@@ -34,6 +38,8 @@ function calc_movement()
 	else if (_hmove == 1)
 	{
 		sprite_index = spr_player_right
+		facing_right = true;
+		facing_left = false;
 		
 		
 	}
@@ -47,6 +53,13 @@ function calc_movement()
 		sprite_index = spr_player_right
 		
 	}
+	else if ( _vmove == 1 )
+	{
+		sprite_index = spr_player_right
+		
+	}
+	
+	
 		
 							// aller a gauche right = 0 et left = -1 donc = -1 donc player vas a gauche 
 								// si cas contraire right = 1 et left = 0 alors go droite 
@@ -59,6 +72,7 @@ function calc_movement()
 		
 		x += _hmove;
 		y += _vmove;
+		global.shooting = false;
 	}	
 	
 	function collision()
