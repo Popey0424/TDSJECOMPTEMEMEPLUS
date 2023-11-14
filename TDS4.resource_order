@@ -1,12 +1,18 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
+    {"name":"PS_Explosion","order":1,"path":"particles/PS_Explosion/PS_Explosion.yy",},
+    {"name":"ElectricGen","order":2,"path":"objects/ElectricGen/ElectricGen.yy",},
     {"name":"obj_camera","order":1,"path":"objects/obj_camera/obj_camera.yy",},
     {"name":"spr_button_scroll_up","order":1,"path":"sprites/spr_button_scroll_up/spr_button_scroll_up.yy",},
+    {"name":"ElectricParticule","order":3,"path":"objects/ElectricParticule/ElectricParticule.yy",},
     {"name":"obj_scroll_up","order":1,"path":"objects/obj_scroll_up/obj_scroll_up.yy",},
     {"name":"obj_scroll_down","order":2,"path":"objects/obj_scroll_down/obj_scroll_down.yy",},
     {"name":"spr_button_scroll_down","order":2,"path":"sprites/spr_button_scroll_down/spr_button_scroll_down.yy",},
+    {"name":"PS_Sparks","order":3,"path":"particles/PS_Sparks/PS_Sparks.yy",},
+    {"name":"Camera_Shaking","order":1,"path":"scripts/Camera_Shaking/Camera_Shaking.yy",},
     {"name":"spr_machine_commandes03","order":2,"path":"sprites/spr_machine_commandes03/spr_machine_commandes03.yy",},
     {"name":"spr_machine_commandes02","order":1,"path":"sprites/spr_machine_commandes02/spr_machine_commandes02.yy",},
+    {"name":"PS_Smoke","order":2,"path":"particles/PS_Smoke/PS_Smoke.yy",},
   ],
 }

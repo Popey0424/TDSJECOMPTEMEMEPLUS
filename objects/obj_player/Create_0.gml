@@ -14,6 +14,12 @@ bonus_par_combo = 10
 
 combo_reset_timer = 0;
 
+
+
+
+
+
+
 global.facing = 0
 
 if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
@@ -54,7 +60,7 @@ __dnd_lives += real(3);
 	
 	
 
-	
+hit_timer = 0;
 	
 	 
 	 

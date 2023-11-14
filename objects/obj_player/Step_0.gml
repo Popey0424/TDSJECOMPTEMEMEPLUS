@@ -163,6 +163,15 @@ life = __dnd_lives
 //feedback visuel si on se prend un dégât
 
 
+// Step Event hit timer 
+if (hit_timer > 0) {
+    image_blend = c_red; // Set sprite to red
+    hit_timer -= 1;      // Decrease the timer
+} else {
+    image_blend = c_white; // Reset to normal color
+}
+
+
 
 
 

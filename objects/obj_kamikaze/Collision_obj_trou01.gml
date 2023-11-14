@@ -1,5 +1,6 @@
 if(__dnd_lives <= 0)
 {
+
 	enemy_just_died = true;
 	global.score += 100; 
 	
