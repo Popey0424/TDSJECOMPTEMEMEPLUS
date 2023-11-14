@@ -25,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_angle_t",
-    "path": "sprites/spr_angle_t/spr_angle_t.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
