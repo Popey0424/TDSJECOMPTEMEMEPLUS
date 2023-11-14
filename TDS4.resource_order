@@ -132,7 +132,6 @@
     {"name":"Puzzle_Manager","order":5,"path":"objects/Puzzle_Manager/Puzzle_Manager.yy",},
     {"name":"spr_tuyau_mur_01","order":2,"path":"sprites/spr_tuyau_mur_01/spr_tuyau_mur_01.yy",},
     {"name":"spr_livre_ferme2","order":3,"path":"sprites/spr_livre_ferme2/spr_livre_ferme2.yy",},
-    {"name":"PS_Smoke_2","order":15,"path":"particles/PS_Smoke_2/PS_Smoke_2.yy",},
     {"name":"spr_livre_ferme","order":2,"path":"sprites/spr_livre_ferme/spr_livre_ferme.yy",},
     {"name":"spr_zone_collision","order":2,"path":"sprites/spr_zone_collision/spr_zone_collision.yy",},
     {"name":"spr_sol_03","order":3,"path":"sprites/spr_sol_03/spr_sol_03.yy",},
