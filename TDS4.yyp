@@ -283,6 +283,7 @@
     {"id":{"name":"spr_tuyau_mur_01","path":"sprites/spr_tuyau_mur_01/spr_tuyau_mur_01.yy",},},
     {"id":{"name":"spr_livre_ferme2","path":"sprites/spr_livre_ferme2/spr_livre_ferme2.yy",},},
     {"id":{"name":"spr_tuyaux_destructible","path":"sprites/spr_tuyaux_destructible/spr_tuyaux_destructible.yy",},},
+    {"id":{"name":"PS_Smoke_2","path":"particles/PS_Smoke_2/PS_Smoke_2.yy",},},
     {"id":{"name":"spr_livre_ferme","path":"sprites/spr_livre_ferme/spr_livre_ferme.yy",},},
     {"id":{"name":"spr_trou_ennemies","path":"sprites/spr_trou_ennemies/spr_trou_ennemies.yy",},},
     {"id":{"name":"obj_stop_player","path":"objects/obj_stop_player/obj_stop_player.yy",},},
