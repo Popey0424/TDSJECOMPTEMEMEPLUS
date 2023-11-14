@@ -1,2 +1,5 @@
-test1 = part_system_create()
-part_particles_create(test, x+random(sprite_width), y+random(sprite_height), PS_Smoke, 1)
+/// @description Insert description here
+// You can write your code in this editor
+
+test = part_system_create();
+part_particles_create(test, x, y, PS_Smoke, 1)

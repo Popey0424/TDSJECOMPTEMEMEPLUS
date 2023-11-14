@@ -43,6 +43,7 @@
     {"name":"spr_rouage_04","order":6,"path":"sprites/spr_rouage_04/spr_rouage_04.yy",},
     {"name":"obj_scroll_down","order":2,"path":"objects/obj_scroll_down/obj_scroll_down.yy",},
     {"name":"spr_archives","order":9,"path":"sprites/spr_archives/spr_archives.yy",},
+    {"name":"Sprite122","order":3,"path":"sprites/Sprite122/Sprite122.yy",},
     {"name":"obj_barriere","order":1,"path":"objects/obj_barriere/obj_barriere.yy",},
     {"name":"spr_sol_bois","order":16,"path":"sprites/spr_sol_bois/spr_sol_bois.yy",},
     {"name":"spr_tuyau_verti_02","order":10,"path":"sprites/spr_tuyau_verti_02/spr_tuyau_verti_02.yy",},
