@@ -1,6 +1,7 @@
 if(__dnd_lives <= 0)
 {
-
+	global.shake = true 
+	alarm[11] = 120;
 	enemy_just_died = true;
 	global.score += 100; 
 	
