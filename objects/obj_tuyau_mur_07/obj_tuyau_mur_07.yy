@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Decoration_mur",
-    "path": "folders/Objects/Decoration/Decoration_mur.yy",
+    "name": "TDS4",
+    "path": "TDS4.yyp",
   },
   "parentObjectId": null,
   "persistent": false,

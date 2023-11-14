@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_malette_metallique",
-  "bbox_bottom": 170,
+  "bbox_bottom": 97,
   "bbox_left": 0,
-  "bbox_right": 255,
+  "bbox_right": 145,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b814c481-c579-4486-827d-d07984d59ee6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8f3982c0-0fee-4619-a574-7569e76d0d6d",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 171,
+  "height": 98,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"30efd7b3-3892-4814-b09e-843154dc443e","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"75203984-2f75-4836-a613-5a419b5ce6ea","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b814c481-c579-4486-827d-d07984d59ee6","path":"sprites/spr_malette_metallique/spr_malette_metallique.yy",},},},"Disabled":false,"id":"dc30d6e9-724e-4b71-b422-d7f3cd41c6e2","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8f3982c0-0fee-4619-a574-7569e76d0d6d","path":"sprites/spr_malette_metallique/spr_malette_metallique.yy",},},},"Disabled":false,"id":"341ef499-ed45-4ff3-b087-65898a4040c8","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 256,
+  "width": 146,
 }

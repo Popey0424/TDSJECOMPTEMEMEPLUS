@@ -25,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_verriere_01",
-    "path": "sprites/spr_verriere_01/spr_verriere_01.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
