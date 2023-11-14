@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Narrative",
-    "path": "folders/Objects/Narrative.yy",
+    "name": "Text",
+    "path": "folders/Objects/Narrative/Text.yy",
   },
   "parentObjectId": null,
   "persistent": false,

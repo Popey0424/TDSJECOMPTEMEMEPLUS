@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_obstacle_case01",
+  "name": "obj_sol_metal",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Obstacles",
-    "path": "folders/Objects/Obstacles.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_sol",
+    "path": "sprites/spr_sol/spr_sol.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

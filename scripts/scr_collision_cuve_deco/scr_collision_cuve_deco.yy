@@ -5,7 +5,7 @@
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "Collisions",
-    "path": "folders/Scripts/Collisions.yy",
+    "name": "Deco",
+    "path": "folders/Scripts/Collisions/Deco.yy",
   },
 }
