@@ -6,12 +6,6 @@ draw_text(40, 20, "Score: " + string(global.score));
 
 
 
-for (var i = 1; i < life+1; i++){
-    draw_sprite(spr_life, 0, 64 * i, 200);
-}
-
-
-
 
 //afficher l'objet narratif 01
 

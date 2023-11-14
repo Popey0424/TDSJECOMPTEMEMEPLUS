@@ -1,10 +1,11 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-
+global.life = 0
 
 instance_create_layer(0, 0, "Instances_Obj_Weapon", obj_weapon);
 instance_create_layer(0, 0, "Instances_Character", obj_zone_collision);
+instance_create_layer(0, 0, "Instances_Obj_Weapon", obj_life);
 
 // Initialisation des variables
 global.score = 0

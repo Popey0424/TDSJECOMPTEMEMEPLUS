@@ -14,7 +14,7 @@ if (global.combo % 5 == 0)
 
 
 
-
+global.life = __dnd_lives
 
 
 
