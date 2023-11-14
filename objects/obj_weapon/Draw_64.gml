@@ -1,5 +1,5 @@
 
-draw_set_color(c_white);
+draw_set_color(c_red);
 x = 500;
 y = 500;
 
