@@ -9,9 +9,9 @@ if(ds_list_size(global.puzzle01_answer) == ds_list_size(global.puzzle01))
 	{
 		isFinished = true
 		obj_porte_puzzle.image_speed = 1
-		if (obj_porte_puzzle.image_index == 9)
+		if (spr_porte_vu_haut.sprite_index == 9)
 		{
-			obj_porte_puzzle.image_speed = 0
+			spr_porte_vu_haut.image_speed = 0
 		}
 	}
 	else if (answer != puzzle)

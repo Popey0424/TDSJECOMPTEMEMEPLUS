@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "group1",
-    "path": "folders/Sprites/Decoration/group1.yy",
+    "name": "Rouage",
+    "path": "folders/Sprites/Decoration/Rouage.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

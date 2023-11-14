@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "TDS4",
-    "path": "TDS4.yyp",
+    "name": "Sol",
+    "path": "folders/Sprites/Decoration/Sol.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

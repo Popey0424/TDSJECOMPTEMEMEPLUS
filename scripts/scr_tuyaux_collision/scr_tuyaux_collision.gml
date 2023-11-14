@@ -44,13 +44,13 @@ function scr_porte_collision()
 	
 	repeat(_disx)
 	{
-		if(!place_meeting(x+sign(_tx-x), y, obj_porte_puzzle))
+		if(!place_meeting(x+sign(_tx-x), y, other))
 			x += sign(_tx-x);
 	}
 	
 	repeat(_disy)
 	{
-		if(!place_meeting(x, y+sign(_ty-y), obj_porte_puzzle))
+		if(!place_meeting(x, y+sign(_ty-y), other))
 			y += sign(_ty-y);
 	} 
 	

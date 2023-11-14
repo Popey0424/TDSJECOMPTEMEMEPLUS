@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "TDS4",
-    "path": "TDS4.yyp",
+    "name": "Tuyaux_mur",
+    "path": "folders/Objects/Decoration/Decoration_mur/Tuyaux_mur.yy",
   },
   "parentObjectId": null,
   "persistent": false,
