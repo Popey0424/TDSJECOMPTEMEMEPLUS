@@ -15,9 +15,9 @@
     {"name":"Rouage","order":38,"path":"folders/Sprites/Decoration/Rouage.yy",},
     {"name":"Sol","order":37,"path":"folders/Sprites/Decoration/Sol.yy",},
     {"name":"TUYAUX_MUR","order":29,"path":"folders/Sprites/Decoration/TUYAUX_MUR.yy",},
+    {"name":"Dev","order":4,"path":"folders/Sprites/Dev.yy",},
     {"name":"Tile Sets","order":13,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":14,"path":"folders/Timelines.yy",},
-    {"name":"Dev","order":4,"path":"folders/Sprites/Dev.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_tas_01","order":32,"path":"sprites/spr_tas_01/spr_tas_01.yy",},
