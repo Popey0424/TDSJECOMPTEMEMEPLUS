@@ -3012,6 +3012,7 @@
     {"name":"inst_1B260CD7","path":"rooms/Level01/Level01.yy",},
     {"name":"inst_4E2F3B92","path":"rooms/Level01/Level01.yy",},
     {"name":"inst_7B72B7A","path":"rooms/Level01/Level01.yy",},
+    {"name":"inst_14110319","path":"rooms/Level01/Level01.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -3094,6 +3095,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_20598ACB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_obstacle_caisse","path":"objects/obj_obstacle_caisse/obj_obstacle_caisse.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":19210.0,"y":1640.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_FE5A3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_malette_metallique","path":"objects/obj_malette_metallique/obj_malette_metallique.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":19137.0,"y":1605.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7B72B7A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":10496.0,"y":3648.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_14110319","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_tuyau_mur_01","path":"objects/obj_tuyau_mur_01/obj_tuyau_mur_01.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":10336.0,"y":832.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Decoration","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_60AA2E34","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":0.0,"scaleX":1.25,"scaleY":1.25,"spriteId":{"name":"spr_malette","path":"sprites/spr_malette/spr_malette.yy",},"x":1431.0,"y":3364.0,},
