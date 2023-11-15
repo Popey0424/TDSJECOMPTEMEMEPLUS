@@ -1,7 +1,7 @@
 audio_group_load(music_group);
 
-music_playing = Menu_music
-music = [Menu_music]
+music_playing = Game_music
+music = [Game_music]
 
 global.music_volume = 1;
 

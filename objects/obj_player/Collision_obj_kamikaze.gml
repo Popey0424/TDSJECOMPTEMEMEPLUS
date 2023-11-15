@@ -2,7 +2,7 @@
 
 
 
-instance_destroy(obj_life);
+
 
 if (invincible = false) {
 	invincible = true;

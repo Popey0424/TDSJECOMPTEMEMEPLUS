@@ -3,7 +3,7 @@
 if(__dnd_lives <= 0)
 {
 	global.pscore += 10;
-	global.pcombo += 1;
+	
 	instance_destroy()
 	with(other)
 	{

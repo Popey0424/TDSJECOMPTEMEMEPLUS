@@ -1,5 +1,6 @@
 /// @description Pause
 instance_deactivate_all( true );
+instance_deactivate_layer("Decoration")
 audio_pause_all();
 
 

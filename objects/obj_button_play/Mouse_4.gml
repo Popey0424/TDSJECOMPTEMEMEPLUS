@@ -2,6 +2,7 @@
 
 if mouse_check_button_pressed(mb_left)
 {
+	audio_play_sound(Click, 1000, 0)
 	//room_goto(Level01);
 	
 	with obj_fade

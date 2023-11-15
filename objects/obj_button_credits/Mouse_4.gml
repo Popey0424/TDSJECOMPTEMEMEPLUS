@@ -2,5 +2,13 @@
 
 if mouse_check_button_pressed(mb_left)
 {
-	room_goto(Room_Credits);
+	audio_play_sound(Click, 1000, 0)
+	with obj_fade
+	
+	{	
+		pressed = 3;
+	}
+	
+	
+	
 }

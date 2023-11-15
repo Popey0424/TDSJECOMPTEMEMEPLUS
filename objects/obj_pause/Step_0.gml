@@ -62,17 +62,17 @@ if ( pause ){
 	//deplacement menu avec fleches directionelle 
 	if ( kDown ){
 		b  = scr_approchate( b, bc- 1, 1 );
-		// audio_play_sound( sound[0], 0, 0 );
+		audio_play_sound( PauseMenuSelectionSound, 0, 0 );
 	} else if ( kUp ){
 		b	= scr_approchate( b, 0, 1 );
-		// audio_play_sound( sound[0], 0, 0 );
+		audio_play_sound( PauseMenuSelectionSound, 0, 0 );
 	}
 	
 	
 	//choix du bouton ? 
 	if ( kConfirm ){
 		if ( pause ){
-			// audio_play_sound( sound[1], 0, 0 );
+			audio_play_sound(Click, 0, 0 );
 		switch( b ){
 			case 0: 
 				alarm[0]	= room_speed* 0.1;  
@@ -84,8 +84,7 @@ if ( pause ){
 
 			break;
 			case 2: 
-				instance_activate_all();
-				screen_alpha_set = 0;
+				game_end()
 			break;
 			case 3: 
 				game_end()
