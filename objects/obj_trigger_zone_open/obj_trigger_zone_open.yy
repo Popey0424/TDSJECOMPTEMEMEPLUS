@@ -32,5 +32,5 @@
     "path": "sprites/spr_trigger_zone/spr_trigger_zone.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
