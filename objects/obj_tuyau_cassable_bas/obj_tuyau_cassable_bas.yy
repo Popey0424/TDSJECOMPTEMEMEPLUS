@@ -1,9 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_tuyaux_destructible",
+  "name": "obj_tuyau_cassable_bas",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_trou01","path":"objects/obj_trou01/obj_trou01.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -28,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_tuyaux_destructible",
-    "path": "sprites/spr_tuyaux_destructible/spr_tuyaux_destructible.yy",
+    "name": "spr_tuyau_bas01_on",
+    "path": "sprites/spr_tuyau_bas01_on/spr_tuyau_bas01_on.yy",
   },
   "spriteMaskId": null,
   "visible": true,
