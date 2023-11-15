@@ -68,6 +68,7 @@
     {"name":"spr_tuyau_mur_08","order":6,"path":"sprites/spr_tuyau_mur_08/spr_tuyau_mur_08.yy",},
     {"name":"spr_sol_bois","order":6,"path":"sprites/spr_sol_bois/spr_sol_bois.yy",},
     {"name":"spr_tuyau_verti_02","order":10,"path":"sprites/spr_tuyau_verti_02/spr_tuyau_verti_02.yy",},
+    {"name":"obj_tuyau_verti_02","order":7,"path":"objects/obj_tuyau_verti_02/obj_tuyau_verti_02.yy",},
     {"name":"obj_tuyau_mur_05","order":4,"path":"objects/obj_tuyau_mur_05/obj_tuyau_mur_05.yy",},
     {"name":"spr_tuyau_horiz_01","order":11,"path":"sprites/spr_tuyau_horiz_01/spr_tuyau_horiz_01.yy",},
     {"name":"spr_textbox","order":10,"path":"sprites/spr_textbox/spr_textbox.yy",},
@@ -108,6 +109,7 @@
     {"name":"obj_angle","order":4,"path":"objects/obj_angle/obj_angle.yy",},
     {"name":"spr_machine_commandes03","order":31,"path":"sprites/spr_machine_commandes03/spr_machine_commandes03.yy",},
     {"name":"spr_tuyau_mur_01","order":2,"path":"sprites/spr_tuyau_mur_01/spr_tuyau_mur_01.yy",},
+    {"name":"obj_tuyau_horiz_02","order":6,"path":"objects/obj_tuyau_horiz_02/obj_tuyau_horiz_02.yy",},
     {"name":"spr_livre_ferme2","order":3,"path":"sprites/spr_livre_ferme2/spr_livre_ferme2.yy",},
     {"name":"spr_livre_ferme","order":2,"path":"sprites/spr_livre_ferme/spr_livre_ferme.yy",},
     {"name":"spr_sol_03","order":3,"path":"sprites/spr_sol_03/spr_sol_03.yy",},
@@ -130,6 +132,7 @@
     {"name":"spr_porte_vu_haut","order":27,"path":"sprites/spr_porte_vu_haut/spr_porte_vu_haut.yy",},
     {"name":"Sprite136","order":7,"path":"sprites/Sprite136/Sprite136.yy",},
     {"name":"sprite_verriere_barre","order":6,"path":"sprites/sprite_verriere_barre/sprite_verriere_barre.yy",},
+    {"name":"obj_tuyau_cassable_haut","order":5,"path":"objects/obj_tuyau_cassable_haut/obj_tuyau_cassable_haut.yy",},
     {"name":"spr_scaphandre","order":28,"path":"sprites/spr_scaphandre/spr_scaphandre.yy",},
   ],
 }

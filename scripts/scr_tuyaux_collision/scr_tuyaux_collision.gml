@@ -14,13 +14,13 @@ function scr_tuyaux_collision()
 	
 	repeat(_disx)
 	{
-		if(!place_meeting(x+sign(_tx-x), y, obj_tuyaux_destructible))
+		if(!place_meeting(x+sign(_tx-x), y, other))
 			x += sign(_tx-x);
 	}
 	
 	repeat(_disy)
 	{
-		if(!place_meeting(x, y+sign(_ty-y),  obj_tuyaux_destructible))
+		if(!place_meeting(x, y+sign(_ty-y),  other))
 			y += sign(_ty-y);
 	}
 	
