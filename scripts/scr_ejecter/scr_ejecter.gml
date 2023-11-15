@@ -24,3 +24,16 @@ function scr_ejecter()
 	}
 
 }
+
+function scr_puzzle02()
+{
+	if (other.x < x) 
+	{
+		other.x = x - 256
+	}
+	
+	else if (other.x >= x)
+	{
+		other.x = x + 256
+	}
+}
