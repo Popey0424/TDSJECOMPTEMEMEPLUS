@@ -18,7 +18,13 @@ combo_reset_timer = 0;
 
 
 
+//deactive shake par défaut
+layer_enable_fx("Shake",false);
 
+//Change la valeur de l'alpha
+flashAlpha = 0;
+//couleur 
+flashColour = c_white;
 
 
 

@@ -17,7 +17,15 @@ if (global.combo % 5 == 0)
 global.life = __dnd_lives
 
 
-
+//trigger flash
+//if(keyboard_check_pressed(vk_space))
+//	flashAlpha = 1;
+	
+//reduction flash
+if flashAlpha > 0
+{
+	flashAlpha -= 0.05;
+}
 
 		
 		
