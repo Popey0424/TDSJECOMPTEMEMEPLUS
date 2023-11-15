@@ -280,6 +280,7 @@
     {"id":{"name":"spr_checkpoint_on","path":"sprites/spr_checkpoint_on/spr_checkpoint_on.yy",},},
     {"id":{"name":"obj_tuyau_mur_06","path":"objects/obj_tuyau_mur_06/obj_tuyau_mur_06.yy",},},
     {"id":{"name":"obj_checkpoint_off","path":"objects/obj_checkpoint_off/obj_checkpoint_off.yy",},},
+    {"id":{"name":"scr_collision_commandes","path":"scripts/scr_collision_commandes/scr_collision_commandes.yy",},},
     {"id":{"name":"spr_mark_gun","path":"sprites/spr_mark_gun/spr_mark_gun.yy",},},
     {"id":{"name":"spr_archives_03","path":"sprites/spr_archives_03/spr_archives_03.yy",},},
     {"id":{"name":"obj_checkpoint_on","path":"objects/obj_checkpoint_on/obj_checkpoint_on.yy",},},
