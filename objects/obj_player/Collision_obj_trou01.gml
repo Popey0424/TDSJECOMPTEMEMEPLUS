@@ -3,7 +3,6 @@
 
 
 
-
 if (__dnd_lives = 0)
 {
 	room_goto(Room_GameOver);

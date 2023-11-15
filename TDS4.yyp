@@ -191,6 +191,7 @@
     {"id":{"name":"spr_soluce","path":"sprites/spr_soluce/spr_soluce.yy",},},
     {"id":{"name":"spr_tuyau__mur_03","path":"sprites/spr_tuyau__mur_03/spr_tuyau__mur_03.yy",},},
     {"id":{"name":"spr_trigger_zone","path":"sprites/spr_trigger_zone/spr_trigger_zone.yy",},},
+    {"id":{"name":"sh_flash","path":"shaders/sh_flash/sh_flash.yy",},},
     {"id":{"name":"obj_tuyau_puzzle","path":"objects/obj_tuyau_puzzle/obj_tuyau_puzzle.yy",},},
     {"id":{"name":"obj_barriere","path":"objects/obj_barriere/obj_barriere.yy",},},
     {"id":{"name":"spr_tuyau_mur_08","path":"sprites/spr_tuyau_mur_08/spr_tuyau_mur_08.yy",},},

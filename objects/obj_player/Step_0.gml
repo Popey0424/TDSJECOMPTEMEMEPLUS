@@ -24,7 +24,7 @@ global.life = __dnd_lives
 //reduction flash
 if flashAlpha > 0
 {
-	flashAlpha -= 0.05;
+	flashAlpha -= 0.01;
 }
 
 		

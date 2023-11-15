@@ -1,1 +1,1 @@
-layer_enable_fx("Shake",false);
+layer_enable_fx("Shake", false);
