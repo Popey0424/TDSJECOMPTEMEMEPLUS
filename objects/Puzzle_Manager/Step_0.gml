@@ -32,9 +32,8 @@ if(ds_list_size(global.puzzle01_answer) == ds_list_size(global.puzzle01))
 
 if isFinished01 == true
 {
-	if (obj_cuve.image_index == 3)
-	{
-		isFinished02 = true
+	
+		
 		if (obj_porte_puzzle.image_index == 0)
 		{
 			obj_porte_puzzle.image_speed = 1
@@ -46,7 +45,6 @@ if isFinished01 == true
 			obj_porte_puzzle.image_speed = 0
 		}
 	}
-}
 
 if isFinished02 == true
 {

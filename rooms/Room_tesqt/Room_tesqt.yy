@@ -13,6 +13,8 @@
     {"name":"inst_108C6241","path":"rooms/Room_tesqt/Room_tesqt.yy",},
     {"name":"inst_3D8AC1CC","path":"rooms/Room_tesqt/Room_tesqt.yy",},
     {"name":"inst_26DB5DFE","path":"rooms/Room_tesqt/Room_tesqt.yy",},
+    {"name":"inst_392439A0","path":"rooms/Room_tesqt/Room_tesqt.yy",},
+    {"name":"inst_59DA67F4","path":"rooms/Room_tesqt/Room_tesqt.yy",},
   ],
   "isDnd": false,
   "layers": [

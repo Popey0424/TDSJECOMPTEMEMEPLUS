@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_tuyau_haut01_on",
-  "bbox_bottom": 127,
+  "bbox_bottom": 255,
   "bbox_left": 0,
-  "bbox_right": 56,
+  "bbox_right": 113,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -18,7 +18,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 128,
+  "height": 256,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"182b5244-af7a-484f-ada4-36fd8521306e","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
@@ -72,5 +72,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 57,
+  "width": 114,
 }
