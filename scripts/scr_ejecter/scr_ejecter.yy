@@ -5,7 +5,7 @@
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "SteamEffect",
-    "path": "folders/Scripts/SteamEffect.yy",
+    "name": "Effect",
+    "path": "folders/Scripts/Effect.yy",
   },
 }
