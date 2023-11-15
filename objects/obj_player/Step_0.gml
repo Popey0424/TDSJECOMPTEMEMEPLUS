@@ -167,24 +167,24 @@ if ((keyboard_check_pressed(vk_left) or keyboard_check_pressed(ord("Q"))) and pa
 
 
 
-//if f4=1
+if f4=1
 
-//{
-//if (keyboard_check_pressed(vk_right)) or keyboard_check_pressed(ord("D"))
-//{
-//  page_object4 = page_object4+1;
-//} 
+{
+if (keyboard_check_pressed(vk_right)) or keyboard_check_pressed(ord("D"))
+{
+  page_object4 = page_object4+1;
+} 
 
-//if (keyboard_check_pressed(vk_left)) or keyboard_check_pressed(ord("Q"))
-//{
-//  page_object4 = page_object4-1;}
+if (keyboard_check_pressed(vk_left)) or keyboard_check_pressed(ord("Q"))
+{
+  page_object4 = page_object4-1;}
 
  
-//if ((keyboard_check_pressed(vk_left) or keyboard_check_pressed(ord("Q"))) and page_object4<0)
-//{
-//      f4 = 0;
-//    page_object4 = 0;
-//}  }
+if ((keyboard_check_pressed(vk_left) or keyboard_check_pressed(ord("Q"))) and page_object4<0)
+{
+      f4 = 0;
+    page_object4 = 0;
+}  }
 
 
 //
