@@ -42,6 +42,7 @@
     {"name":"obj_tuyau_mur_04","order":3,"path":"objects/obj_tuyau_mur_04/obj_tuyau_mur_04.yy",},
     {"name":"spr_angle_mur_droit","order":40,"path":"sprites/spr_angle_mur_droit/spr_angle_mur_droit.yy",},
     {"name":"obj_scroll_up","order":1,"path":"objects/obj_scroll_up/obj_scroll_up.yy",},
+    {"name":"Sprite134","order":43,"path":"sprites/Sprite134/Sprite134.yy",},
     {"name":"obj_tuyau_mur_09","order":7,"path":"objects/obj_tuyau_mur_09/obj_tuyau_mur_09.yy",},
     {"name":"spr_angle_mur_gauche","order":9,"path":"sprites/spr_angle_mur_gauche/spr_angle_mur_gauche.yy",},
     {"name":"spr_table","order":5,"path":"sprites/spr_table/spr_table.yy",},
