@@ -7,11 +7,16 @@ if(ds_list_size(global.puzzle01_answer) == ds_list_size(global.puzzle01))
 	puzzle = ds_list_write(global.puzzle01)
 	if (answer == puzzle)
 	{
-		isFinished = true
-		obj_porte_puzzle.image_speed = 1
-		if (spr_porte_vu_haut.sprite_index == 9)
+		isFinished01 = true
+		if (obj_porte_puzzle.image_index == 0)
 		{
-			spr_porte_vu_haut.image_speed = 0
+			obj_porte_puzzle.image_speed = 1
+	
+		}
+
+		if (obj_porte_puzzle.image_index == 8)
+		{
+			obj_porte_puzzle.image_speed = 0
 		}
 	}
 	else if (answer != puzzle)
@@ -25,13 +30,35 @@ if(ds_list_size(global.puzzle01_answer) == ds_list_size(global.puzzle01))
 	
 }
 
+if isFinished01 == true
+{
+	if (obj_cuve.image_index == 3)
+	{
+		isFinished02 = true
+		if (obj_porte_puzzle.image_index == 0)
+		{
+			obj_porte_puzzle.image_speed = 1
+	
+		}
 
-if isFinished == true
+		if (obj_porte_puzzle.image_index == 8)
+		{
+			obj_porte_puzzle.image_speed = 0
+		}
+	}
+}
+
+if isFinished02 == true
 {
 	if (global.puzzle03_answer == global.puzzle03)
 	{
-		obj_porte_puzzle.image_speed = 1
-		if (obj_porte_puzzle.image_index == 9)
+		if (obj_porte_puzzle.image_index == 0)
+		{
+			obj_porte_puzzle.image_speed = 1
+	
+		}
+
+		if (obj_porte_puzzle.image_index == 8)
 		{
 			obj_porte_puzzle.image_speed = 0
 		}

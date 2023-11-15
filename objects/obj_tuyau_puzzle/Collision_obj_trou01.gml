@@ -2,4 +2,5 @@
 // You can write your code in this editor
 
 instance_destroy(self)
-global.etat =- 1;
+with obj_cuve{etat +=1;
+	show_debug_message(etat)}
