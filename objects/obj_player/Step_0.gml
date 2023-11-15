@@ -210,5 +210,13 @@ if (global.shooting == true)
 
 
 
+//initalisationd des caméras
+
+
+view_enabled = true;
+view_visible[0] = true;
+view_visible[1] = false;
+
+
 
 
