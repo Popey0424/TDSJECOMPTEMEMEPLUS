@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_steam_ennemies",
-    "path": "sprites/spr_steam_ennemies/spr_steam_ennemies.yy",
+    "name": "spr_trou_ennemies",
+    "path": "sprites/spr_trou_ennemies/spr_trou_ennemies.yy",
   },
   "spriteMaskId": null,
   "visible": true,

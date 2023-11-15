@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Textbox",
-    "path": "folders/Objects/Narrative/Textbox.yy",
+    "name": "Narrative",
+    "path": "folders/Objects/Narrative.yy",
   },
   "parentObjectId": null,
   "persistent": false,

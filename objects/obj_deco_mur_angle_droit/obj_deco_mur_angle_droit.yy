@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Mur",
-    "path": "folders/Objects/Decoration/Mur.yy",
+    "name": "Decoration",
+    "path": "folders/Objects/Decoration.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_angle_mur_droit",
+    "path": "sprites/spr_angle_mur_droit/spr_angle_mur_droit.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

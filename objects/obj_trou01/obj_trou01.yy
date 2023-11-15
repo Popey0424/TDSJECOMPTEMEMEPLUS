@@ -34,8 +34,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_steam",
-    "path": "sprites/spr_steam/spr_steam.yy",
+    "name": "spr_trou01",
+    "path": "sprites/spr_trou01/spr_trou01.yy",
   },
   "spriteMaskId": null,
   "visible": true,

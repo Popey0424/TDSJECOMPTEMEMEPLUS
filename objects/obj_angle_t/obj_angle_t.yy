@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Tuyaux_mur",
-    "path": "folders/Objects/Decoration/Decoration_mur/Tuyaux_mur.yy",
+    "name": "Decoration",
+    "path": "folders/Objects/Decoration.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_angle_t",
+    "path": "sprites/spr_angle_t/spr_angle_t.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

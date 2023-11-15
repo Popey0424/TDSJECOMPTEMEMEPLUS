@@ -37,8 +37,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Trigger",
-    "path": "folders/Sprites/Trigger.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
