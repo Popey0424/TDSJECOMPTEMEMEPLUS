@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_blue_block",
-    "path": "sprites/spr_blue_block/spr_blue_block.yy",
+    "name": "spr_archives",
+    "path": "sprites/spr_archives/spr_archives.yy",
   },
   "spriteMaskId": null,
   "visible": true,

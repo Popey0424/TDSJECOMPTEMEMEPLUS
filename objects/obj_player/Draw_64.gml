@@ -139,3 +139,49 @@ if (f3==1)
 
             }
 } 
+
+
+// afficher objet 4
+
+
+if (f4==1)
+{
+    instance_create_layer(x,y,"Instances_Character",obj_stop_player);
+
+    if (page_object4 = 0)
+
+    {
+
+        draw_sprite(spr_livre_ouvert,image_index,500,200);
+
+
+        }
+
+    if (page_object4 = 1)
+
+    {
+        draw_sprite(spr_livre_page01, image_index,500,200);
+
+
+        }
+
+        if (page_object4 = 2)
+
+    {
+        draw_sprite(spr_livre_page02, image_index,500,200);
+
+        }
+
+           if (page_object4 = 3)
+
+    {
+        draw_sprite(spr_livre_page03, image_index,500,200);
+
+      }
+
+               if (page_object4 = 4)
+
+    {
+        draw_sprite(spr_livre_ferme, image_index,500,200);
+
+        } }

@@ -1,21 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_camera",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-  ],
+  "name": "obj_angle_gros",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Narrative",
-    "path": "folders/Objects/Narrative.yy",
+    "name": "Decoration",
+    "path": "folders/Objects/Decoration.yy",
   },
-  "parentObjectId": {
-    "name": "obj_interact",
-    "path": "objects/obj_interact/obj_interact.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -32,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_camera",
-    "path": "sprites/spr_camera/spr_camera.yy",
+    "name": "spr_angle_gros",
+    "path": "sprites/spr_angle_gros/spr_angle_gros.yy",
   },
   "spriteMaskId": null,
   "visible": true,

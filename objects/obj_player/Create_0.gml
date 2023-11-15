@@ -55,6 +55,10 @@ __dnd_lives += real(3);
 	page_object3 = 0;
     f3 = 0;
 	
+	
+	page_object4 = 0;
+	f4 = 0;
+	
 
 	
 	//invincibilité temporaire
