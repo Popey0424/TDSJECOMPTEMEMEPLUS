@@ -1,2 +1,2 @@
 
-collision()
+collision_cuve_deco();

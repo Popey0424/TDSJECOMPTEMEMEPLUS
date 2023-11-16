@@ -3,7 +3,7 @@
 
 if (obj_porte.image_index == 0)
 {
-	collision()
+	scr_porte_collision()
 }
 
 

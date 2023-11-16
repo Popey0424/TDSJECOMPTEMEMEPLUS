@@ -123,10 +123,7 @@ function calc_movement()
 		global.shooting = false;
 	}	
 	
-	
-}
-
-function collision()
+	function collision()
 	{
 		var _tx = x;
 		var _ty = y;
@@ -140,7 +137,7 @@ function collision()
 		
 		repeat(_disx)
 		{
-			if(!place_meeting(x+sign(_tx-x), y, other))
+			if(!place_meeting(x+sign(_tx-x), y, obj_Wall))
 			{
 				x += sign(_tx-x);
 				 
@@ -149,32 +146,32 @@ function collision()
 		
 		repeat(_disy)
 		{
-			if(!place_meeting(x, y+sign(_ty-y), other))
+			if(!place_meeting(x, y+sign(_ty-y), obj_Wall))
 			{
 				y += sign(_ty-y);
 			}
 		}
 
-		if place_meeting(x, y, other)
+		if place_meeting(x, y, obj_Wall)
 		{
 				for( var i = 0; i < 1000; ++ i)
 			{
-				if (!place_meeting(x + i, y, other))
+				if (!place_meeting(x + i, y, obj_Wall))
 				{
 					x += i;
 					break;
 				}
-				if (!place_meeting(x - i, y, other))
+				if (!place_meeting(x - i, y, obj_Wall))
 				{
 					x -= i;
 					break;
 				}
-				if (!place_meeting(x, i + y, other))
+				if (!place_meeting(x, i + y, obj_Wall))
 				{
 					y += i;
 					break;
 				}
-				if (!place_meeting(x, i - y, other))
+				if (!place_meeting(x, i - y, obj_Wall))
 				{
 					y -= i;
 					break;
@@ -183,3 +180,4 @@ function collision()
 			}
 		}
 	}
+}
