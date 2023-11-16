@@ -5,3 +5,5 @@
 instance_destroy(obj_possede_arme);
 
 possede_arme = 1;
+
+

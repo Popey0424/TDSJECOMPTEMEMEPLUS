@@ -32,8 +32,13 @@ if flashAlpha > 0
 walk_spd = 10
 
 if (global.facing == 0) && (keyboard_check(vk_nokey))
+
 {
-	sprite_index = spr_player_idle;
+	
+	if possede_arme = 0
+	{sprite_index = spr_player_idle_without_weapon;  }
+	else
+	{sprite_index = spr_player_idle;}
 }
 
 if (global.facing == 1) && (keyboard_check(vk_nokey))
