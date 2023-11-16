@@ -8,9 +8,9 @@
     {"name":"Narration","order":16,"path":"folders/Sprites/Narration.yy",},
     {"name":"Puzzle","order":17,"path":"folders/Sprites/Puzzle.yy",},
     {"name":"spr_Menu","order":18,"path":"folders/Sprites/spr_Menu.yy",},
+    {"name":"spr_pause","order":23,"path":"folders/Sprites/spr_pause.yy",},
     {"name":"Sprite_Player","order":19,"path":"folders/Sprites/Sprite_Player.yy",},
     {"name":"Trous","order":20,"path":"folders/Sprites/Trous.yy",},
-    {"name":"spr_pause","order":23,"path":"folders/Sprites/spr_pause.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_textbox03","order":14,"path":"objects/obj_textbox03/obj_textbox03.yy",},
