@@ -167,6 +167,7 @@
     {"id":{"name":"spr_hublot","path":"sprites/spr_hublot/spr_hublot.yy",},},
     {"id":{"name":"scr_ejecter","path":"scripts/scr_ejecter/scr_ejecter.yy",},},
     {"id":{"name":"obj_blue_block","path":"objects/obj_blue_block/obj_blue_block.yy",},},
+    {"id":{"name":"spr_porte_fix","path":"sprites/spr_porte_fix/spr_porte_fix.yy",},},
     {"id":{"name":"scr_collision_globe","path":"scripts/scr_collision_globe/scr_collision_globe.yy",},},
     {"id":{"name":"PS_Sparks","path":"particles/PS_Sparks/PS_Sparks.yy",},},
     {"id":{"name":"spr_tuyau_mur_02","path":"sprites/spr_tuyau_mur_02/spr_tuyau_mur_02.yy",},},
