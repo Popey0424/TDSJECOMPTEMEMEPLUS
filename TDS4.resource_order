@@ -40,6 +40,7 @@
     {"name":"obj_text01","order":7,"path":"objects/obj_text01/obj_text01.yy",},
     {"name":"MainMenuMusique","order":2,"path":"sounds/MainMenuMusique/MainMenuMusique.yy",},
     {"name":"obj_textbox04","order":6,"path":"objects/obj_textbox04/obj_textbox04.yy",},
+    {"name":"obj_trigger_zone_puzzle03","order":3,"path":"objects/obj_trigger_zone_puzzle03/obj_trigger_zone_puzzle03.yy",},
     {"name":"obj_text03","order":5,"path":"objects/obj_text03/obj_text03.yy",},
     {"name":"obj_interact","order":4,"path":"objects/obj_interact/obj_interact.yy",},
     {"name":"obj_text04_off","order":3,"path":"objects/obj_text04_off/obj_text04_off.yy",},

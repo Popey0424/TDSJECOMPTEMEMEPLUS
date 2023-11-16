@@ -260,6 +260,7 @@
     {"id":{"name":"spr_sol_01","path":"sprites/spr_sol_01/spr_sol_01.yy",},},
     {"id":{"name":"scr_collision_levier_boite02","path":"scripts/scr_collision_levier_boite02/scr_collision_levier_boite02.yy",},},
     {"id":{"name":"spr_livre_ouvert","path":"sprites/spr_livre_ouvert/spr_livre_ouvert.yy",},},
+    {"id":{"name":"obj_trigger_zone_puzzle03","path":"objects/obj_trigger_zone_puzzle03/obj_trigger_zone_puzzle03.yy",},},
     {"id":{"name":"RoomOptions","path":"rooms/RoomOptions/RoomOptions.yy",},},
     {"id":{"name":"spr_sol","path":"sprites/spr_sol/spr_sol.yy",},},
     {"id":{"name":"spr_sol_04","path":"sprites/spr_sol_04/spr_sol_04.yy",},},
