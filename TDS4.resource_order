@@ -54,6 +54,7 @@
     {"name":"spr_zone_collision","order":1,"path":"sprites/spr_zone_collision/spr_zone_collision.yy",},
     {"name":"obj_textbox04_off_collision","order":1,"path":"objects/obj_textbox04_off_collision/obj_textbox04_off_collision.yy",},
     {"name":"obj_tuyau_horiz_01","order":1,"path":"objects/obj_tuyau_horiz_01/obj_tuyau_horiz_01.yy",},
+    {"name":"obj_possede_arme","order":16,"path":"objects/obj_possede_arme/obj_possede_arme.yy",},
     {"name":"spr_angle_gros","order":21,"path":"sprites/spr_angle_gros/spr_angle_gros.yy",},
   ],
 }
