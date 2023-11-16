@@ -123,7 +123,11 @@ function calc_movement()
 		global.shooting = false;
 	}	
 	
-	function collision()
+	
+}
+
+
+function collision()
 	{
 		var _tx = x;
 		var _ty = y;
@@ -180,4 +184,3 @@ function calc_movement()
 			}
 		}
 	}
-}
