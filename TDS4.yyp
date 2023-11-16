@@ -114,6 +114,7 @@
     {"id":{"name":"spr_rouage_02","path":"sprites/spr_rouage_02/spr_rouage_02.yy",},},
     {"id":{"name":"RoomPause","path":"rooms/RoomPause/RoomPause.yy",},},
     {"id":{"name":"Level01","path":"rooms/Level01/Level01.yy",},},
+    {"id":{"name":"obj_sol02","path":"objects/obj_sol02/obj_sol02.yy",},},
     {"id":{"name":"obj_trou_visu","path":"objects/obj_trou_visu/obj_trou_visu.yy",},},
     {"id":{"name":"obj_background_credit","path":"objects/obj_background_credit/obj_background_credit.yy",},},
     {"id":{"name":"obj_trou01","path":"objects/obj_trou01/obj_trou01.yy",},},
@@ -184,6 +185,11 @@
     {"id":{"name":"obj_scroll_down","path":"objects/obj_scroll_down/obj_scroll_down.yy",},},
     {"id":{"name":"spr_archives","path":"sprites/spr_archives/spr_archives.yy",},},
     {"id":{"name":"spr_angle_02","path":"sprites/spr_angle_02/spr_angle_02.yy",},},
+<<<<<<< HEAD
+=======
+    {"id":{"name":"scr_collision_verti01","path":"scripts/scr_collision_verti01/scr_collision_verti01.yy",},},
+    {"id":{"name":"obj_arme","path":"objects/obj_arme/obj_arme.yy",},},
+>>>>>>> 10d3ae3c2f504137ba119249065bed1e0d857193
     {"id":{"name":"obj_deco_mur_angle_droit","path":"objects/obj_deco_mur_angle_droit/obj_deco_mur_angle_droit.yy",},},
     {"id":{"name":"tir","path":"sounds/tir/tir.yy",},},
     {"id":{"name":"spr_soluce","path":"sprites/spr_soluce/spr_soluce.yy",},},
@@ -210,6 +216,7 @@
     {"id":{"name":"spr_verriere_barre","path":"sprites/spr_verriere_barre/spr_verriere_barre.yy",},},
     {"id":{"name":"obj_trigger_zone_close","path":"objects/obj_trigger_zone_close/obj_trigger_zone_close.yy",},},
     {"id":{"name":"fnt_text_font","path":"fonts/fnt_text_font/fnt_text_font.yy",},},
+    {"id":{"name":"spr_arme","path":"sprites/spr_arme/spr_arme.yy",},},
     {"id":{"name":"spr_rouage_01","path":"sprites/spr_rouage_01/spr_rouage_01.yy",},},
     {"id":{"name":"Click","path":"sounds/Click/Click.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
@@ -298,6 +305,7 @@
     {"id":{"name":"obj_angle","path":"objects/obj_angle/obj_angle.yy",},},
     {"id":{"name":"spr_player_idle_without_weapon","path":"sprites/spr_player_idle_without_weapon/spr_player_idle_without_weapon.yy",},},
     {"id":{"name":"obj_Wall","path":"objects/obj_Wall/obj_Wall.yy",},},
+    {"id":{"name":"obj_sol02121","path":"objects/obj_sol02121/obj_sol02121.yy",},},
     {"id":{"name":"RoomMenu","path":"rooms/RoomMenu/RoomMenu.yy",},},
     {"id":{"name":"obj_obstacle_horiz_01","path":"objects/obj_obstacle_horiz_01/obj_obstacle_horiz_01.yy",},},
     {"id":{"name":"spr_machine_commandes03","path":"sprites/spr_machine_commandes03/spr_machine_commandes03.yy",},},

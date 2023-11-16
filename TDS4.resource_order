@@ -1,4 +1,13 @@
 {
   "FolderOrderSettings": [],
+<<<<<<< HEAD
   "ResourceOrderSettings": [],
+=======
+  "ResourceOrderSettings": [
+    {"name":"obj_sol02","order":2,"path":"objects/obj_sol02/obj_sol02.yy",},
+    {"name":"obj_arme","order":1,"path":"objects/obj_arme/obj_arme.yy",},
+    {"name":"spr_arme","order":1,"path":"sprites/spr_arme/spr_arme.yy",},
+    {"name":"obj_sol02121","order":3,"path":"objects/obj_sol02121/obj_sol02121.yy",},
+  ],
+>>>>>>> 10d3ae3c2f504137ba119249065bed1e0d857193
 }
