@@ -218,5 +218,28 @@ view_visible[0] = true;
 view_visible[1] = false;
 
 
+// Tant que le joueur n'a pas récupéré l'arme
 
 
+if possede_arme = 1
+
+{
+with obj_weapon
+
+{
+
+can_shoot = true;
+
+}
+
+}
+
+else
+
+with obj_weapon
+
+{
+
+can_shoot = false;
+
+}

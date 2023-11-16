@@ -59,6 +59,8 @@ __dnd_lives += real(3);
 	page_object4 = 0;
 	f4 = 0;
 	
+	possede_arme = 0;
+	
 
 	
 	//invincibilité temporaire

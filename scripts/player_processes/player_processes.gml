@@ -39,16 +39,33 @@ function calc_movement()
 	var _hmove = right - left;  //creation d'une variable qui vas etre libere de la memoir a la fin de la braquette
 	if(_hmove == -1)
 	{
-		sprite_index = spr_player_left;
+		if possede_arme = 0
+		
+		{sprite_index = spr_player_left_without_weapon93;}
+		
+		else
+		
+		{ sprite_index = spr_player_left;}
+		
+		
 		facing_left = true;
 		facing_right = false;
 				
-		
-		
 	}
+	
+	
 	else if (_hmove == 1)
 	{
-		sprite_index = spr_player_right
+		
+		if possede_arme = 0
+		
+		{sprite_index = spr_player_right_without_weapon;}
+		
+		else
+		
+		{ sprite_index = spr_player_right;}
+		
+		
 		facing_right = true;
 		facing_left = false;
 		
@@ -63,14 +80,30 @@ function calc_movement()
 	{
 		//if (facing_left == true) sprite_index = spr_player_left;
 		//if (facing_right == true) 
-		sprite_index = spr_player_right;
+		
+			if possede_arme = 0
+		
+		{sprite_index = spr_player_right_without_weapon;}
+		
+		else
+		
+		{ sprite_index = spr_player_right;}
+		
+	
 		
 	}
 	else if ( _vmove == 1 )
 	{
 		//if (facing_left == true) sprite_index = spr_player_left;
 		//if (facing_right == true) 
-		sprite_index = spr_player_right;
+		if possede_arme = 0
+		
+		{sprite_index = spr_player_left_without_weapon93;}
+		
+		else
+		
+		{ sprite_index = spr_player_left;}
+	
 		
 	}
 	
