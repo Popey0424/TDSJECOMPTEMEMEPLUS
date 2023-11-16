@@ -1,4 +1,4 @@
 if (obj_tuyau_cassable_haut.image_index == 0)
 {
-	scr_tuyaux_collision()
+	scr_tuyaux_collision_cassable()
 }

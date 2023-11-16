@@ -1,4 +1,4 @@
-function scr_tuyaux_collision()
+function scr_tuyaux_collision_cassable()
 {
 	var _tx = x;
 	var _ty = y;
