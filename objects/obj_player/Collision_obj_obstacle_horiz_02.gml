@@ -1,1 +1,1 @@
-collision_horiz02();
+collision()

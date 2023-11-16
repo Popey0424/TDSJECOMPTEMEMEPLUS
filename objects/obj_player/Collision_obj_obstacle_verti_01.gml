@@ -1,1 +1,1 @@
-collision_verti01();
+collision()

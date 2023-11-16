@@ -2,4 +2,4 @@
 // You can write your code in this editor
 
 
-collision_boite01();
+collision()

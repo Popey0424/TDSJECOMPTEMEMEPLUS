@@ -1,1 +1,1 @@
-collision_();
+collision();

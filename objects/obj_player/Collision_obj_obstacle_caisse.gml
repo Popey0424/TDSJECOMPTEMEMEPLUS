@@ -1,1 +1,1 @@
-collision_case01();
+collision()
