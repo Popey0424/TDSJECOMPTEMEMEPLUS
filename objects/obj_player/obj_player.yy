@@ -48,6 +48,7 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_tuyau_verti_02","path":"objects/obj_tuyau_verti_02/obj_tuyau_verti_02.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_tuyau_horiz_01","path":"objects/obj_tuyau_horiz_01/obj_tuyau_horiz_01.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_tuyau_horiz_02","path":"objects/obj_tuyau_horiz_02/obj_tuyau_horiz_02.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_blue_block","path":"objects/obj_blue_block/obj_blue_block.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
